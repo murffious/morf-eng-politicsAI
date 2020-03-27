@@ -1,6 +1,4 @@
 <h1 align="center">My-Constitution-Vote</h1>
-
-<div align="center">
   
 - Recommend "to vote for who" system to recommend votes based on data mining/social media and Representatives/Candates activity like votes and such. aka Rock My Vote feature.
 
