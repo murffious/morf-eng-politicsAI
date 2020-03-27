@@ -20,6 +20,14 @@ Read our [contributing guide](/CONTRIBUTING.md) to learn about our development p
 Notice that contributions go far beyond pull requests and commits.
 Although we love giving you the opportunity to put your stamp on RockMyVote, we also are thrilled to receive a variety of contributions. Data needs. 
 
+## Who sponsors RockMyVote?
+- Morf Tech 
+
+### Gold 🏆
+
+Diamond Sponsors are those who have pledged $100/month or more to RockMyVote.
+via [OpenCollective](https://opencollective.com/rockmyvote)
+
 ## Changelog
 
 Please read the [changelog](https://kards.dev/rockmyvote/releases).
